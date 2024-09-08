@@ -18,7 +18,7 @@ I now focus on programming and building modern, responsive web applications🌐.
                  - Build impactful web applications.
 
 ## 📫 Let's Connect
-- [Email](mailto:georgiosgolfis@gmail.com)
+- Email: georgiosgolfis@gmail.com
 
 Check out my projects below!
 
