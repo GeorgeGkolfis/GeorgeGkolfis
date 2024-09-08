@@ -1,10 +1,10 @@
-### Hi there,👋 my name is George Gkolfis!
+## Hi there,👋 my name is George Gkolfis!
 
-#### About Me
+## 📜 About Me
 I'm a former **military communication📡 and UAV (MALE)✈️ technician** turned **Web Developer**. With a strong technical background, 
 I now focus on programming and building modern, responsive web applications🌐.
 
-#### 🔧 Familiarity
+## 🔧 Skills/Familiarity
 - **Frontend**: 
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) 
 - **Backend**: 
@@ -12,13 +12,13 @@ I now focus on programming and building modern, responsive web applications🌐.
 - **Version Control**: 
   - (for command-line interface)![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
-#### 🔭 Goals
+## 🔭 Goals
 - **Short-term**: - Improve my full-stack development skills.
 - **Long-term**: - Pursue a **Bachelor's in Computer Science** to deepen my knowledge and expertise.
                  - Build impactful web applications.
 
-#### 📫 Let's Connect
-- [Email](georgiosgolfis@gmail.com)
+## 📫 Let's Connect
+- [Email](mailto:georgiosgolfis@gmail.com)
 
 Check out my projects below!
 
