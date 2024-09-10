@@ -15,7 +15,7 @@ I now focus on programming and building modern, responsive web applications🌐.
 ## 🔭 Goals
 - **Short-term**: - Improve my full-stack development skills.
 - **Long-term**: - Pursue a **Bachelor's in Computer Science** to deepen my knowledge and expertise.
-                 - Build impactful web applications.
+
 
 ## 📫 Let's Connect
 - Email: georgiosgolfis@gmail.com
