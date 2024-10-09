@@ -1,7 +1,7 @@
 ## Hi there,👋 my name is George Gkolfis!
 
 ## 📜 About Me
-I'm a former **communications 📡 and UAV(MALE) ✈️ technician** in the Greek Army, who has transitioned to **Web Development**. With a strong technical background, 
+I'm a former **communications 📡 and UAV(MALE) ✈️ technician** in the Army, who has transitioned to **Web Development**. With a strong technical background, 
 I now focus on programming and building modern, responsive web applications🌐.
 
 ## 🔧 Established Base with Focus on Deepening Knowledge
