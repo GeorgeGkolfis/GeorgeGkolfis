@@ -13,7 +13,7 @@ I now focus on programming and building modern, responsive web applications🌐.
   - (for command-line interface)![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white), ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
 
 ## 🔭 Goals
-- **Short-term**: - Improve my full-stack development skills.
+- **Short-term**: - Improve my front-end development skills.
 - **Long-term**: - Pursue a **Bachelor's in Computer Science** to deepen my knowledge and expertise.
 
 
