@@ -5,7 +5,8 @@ I'm a former **communications 📡 and UAV(MALE) ✈️ technician** in the Army
 I now focus on programming and building modern, responsive web applications🌐.
 
 ## 🔧 Established Base with Focus on Deepening Knowledge
-- **Languages**:  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+- **Languages**:
+  - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black), ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white), ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 - **Frontend**: 
   - ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white), ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white), ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwindcss&logoColor=white), ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black), ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) 
 - **Backend**: 
