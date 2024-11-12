@@ -26,7 +26,8 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
 ## 📫 Let's Connect
 - Email: georgiosgolfis@gmail.com
 
-Check out my projects below!
 
 ##
 [![](https://visitcount.itsvg.in/api?id=GeorgeGkolfis&label=Profile%20Views&color=3&icon=2&pretty=false)](https://visitcount.itsvg.in)
+
+Check out my projects below!
