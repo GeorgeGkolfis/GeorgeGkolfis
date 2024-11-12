@@ -27,3 +27,6 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
 - Email: georgiosgolfis@gmail.com
 
 Check out my projects below!
+
+---
+[![](https://visitcount.itsvg.in/api?id=nanadiy&icon=2&color=7)](https://visitcount.itsvg.in)
