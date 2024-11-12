@@ -29,4 +29,4 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
 Check out my projects below!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=GeorgeGkolfis&icon=2&color=7)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=GeorgeGkolfis&icon=2&color=2)](https://visitcount.itsvg.in)
