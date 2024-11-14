@@ -24,9 +24,8 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
 
 
 ## 📊 GitHub Stats:
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgeGkolfis&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Top Langs" />
-  <br/>
   <br/>
   <img src="https://visitcount.itsvg.in/api?id=GeorgeGkolfis&label=Profile%20Views&color=3&icon=2&pretty=false" alt="Profile Views" />
 </p>
