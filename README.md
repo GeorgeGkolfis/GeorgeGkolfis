@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:C4DFE6,100:66A5AD&fontColor=FFFFFF&text=Hi%20there,%F0%9F%91%8B%20my%20name%20is%20George%20Gkolfis!&fontAlign=50&animation=fadeIn&fontSize=25&descSize=20&reversal=true&section=header" />
 </p>
-
 ## 📜 About Me
 I'm a person with a strong technical background who began my journey with a curiosity for building things on the web. Over time, this curiosity evolved into a deep interest, with a primary focus on frontend development, while also working extensively on backend development.
 I’m constantly learning and exploring new tools and techniques to enhance my development process. As my journey continues, I strive to grow both technically and creatively, always aiming to improve my craft.
@@ -37,7 +36,6 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
 - Email: georgiosgolfis@gmail.com
 
 Check out my projects below!
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:C4DFE6,100:66A5AD&fontAlign=50&animation=fadeIn&fontSize=25&descSize=20&reversal=true&section=footer"/>
 </p>
