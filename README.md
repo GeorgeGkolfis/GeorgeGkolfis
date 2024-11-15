@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:CADCFC,100:00246B&text=Hi%20there,👋%20my%20name%20is%20George%20Gkolfis!&fontAlign=50&animation=fadeIn&fontSize=25&descSize=20&reversal=true&section=header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=75&color=0:CADCFC,100:00246B&fontColor=FFFFFF&text=Hi%20there,👋%20my%20name%20is%20George%20Gkolfis!&fontAlign=50&animation=fadeIn&fontSize=25&descSize=20&reversal=true&section=header" />
 </p>
 
 ## 📜 About Me
