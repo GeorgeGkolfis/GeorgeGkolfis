@@ -29,7 +29,7 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
 <p align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeGkolfis&show_icons=true&locale=en&langs_count=10&layout=compact&theme=onedark" alt="Top Langs" />
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=GeorgeGkolfis&label=Profile%20Views&color=9&icon=2&pretty=false" alt="Profile Views" />
+  <img src="https://visitcount.itsvg.in/api?id=GeorgeGkolfis&label=Profile%20Views&color=2&icon=2&pretty=false" alt="Profile Views" />
 </p>
 
 
