@@ -17,7 +17,7 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
 - **Cloud platforms**:
   - ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase), ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=plastic&logo=render&logoColor=white), ![Cloudinary](https://img.shields.io/badge/Cloudinary-0078FF?style=plastic&logo=cloudinary&logoColor=white)
 - **Developer tools**: 
-  - ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white), ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white), ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white),  
+  - ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white), ![npm](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white), ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white),  
 
 
 ## 🔭 Goals
