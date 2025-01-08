@@ -30,7 +30,7 @@ I’m constantly learning and exploring new tools and techniques to enhance my d
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeorgeGkolfis&show_icons=true&locale=en&langs_count=10&layout=compact&theme=onedark" alt="Top Langs" />
   <br/>
 <!--   <img src="https://visitcount.itsvg.in/api?id=GeorgeGkolfis&label=Profile%20Views&color=2&icon=2&pretty=false" alt="Profile Views" /> -->
-  <img src="https://komarev.com/ghpvc/?username=GeorgeGkolfis&style=flat-square&color=C4DFE6" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=GeorgeGkolfis&style=flat-square&color=66A5AD" alt="Profile Views" />
 </p>
 
 
