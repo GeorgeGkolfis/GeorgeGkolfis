@@ -3,7 +3,7 @@
 </p>
 
 ## 📜 About Me
-I'm a person with a strong technical background who began my journey with a curiosity for building things on the web. Over time, this curiosity evolved into a deep interest, with a primary focus on frontend development, while also working extensively on backend development.
+I'm a person with a strong technical background who began my journey with a curiosity for building things on the web. Over time, this curiosity evolved into a deep interest, with a focus on frontend development, while also working extensively on backend development.
 I’m constantly learning and exploring new tools and techniques to enhance my development process. As my journey continues, I strive to grow both technically and creatively, always aiming to improve my craft.
 
 
